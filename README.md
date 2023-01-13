@@ -1,3 +1,5 @@
+
+
 # 💫 About Me:
 I'm based in São Paulo, Brazil<br>You can contact me at ferreiraw36@gmail.com<br>I'm learning Advanced Javascript, typescript<br>I'm open to collaborating on projects that have a high impact in peoples lives<br>
 
